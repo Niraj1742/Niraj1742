@@ -22,7 +22,5 @@
 name: "Rajput Niraj Singh"
 role: "Full Stack Developer"
 location: "India 🇮🇳"
-current_focus: ["AI/ML", "Cloud Architecture", "Mobile Development"]
-learning: ["Blockchain", "DevOps", "Microservices"]
-collaboration: "Open Source Projects"
+current_focus: ["AI/ML", " Full Stack Web Development", "Flutter development"]
 motto: "Turning imagination into digital reality"
