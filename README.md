@@ -132,15 +132,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niraj1742&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niraj1742&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj1742&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="32%"/>
-</div>
-
 ---
 
 ## 🌈 Let's Build the Future Together!
