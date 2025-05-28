@@ -16,11 +16,42 @@
 
 ## 🌌 Digital Architect & Code Craftsman
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<table align="center">
+<tr>
+<td width="50%">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%">
+
+</td>
+<td width="50%">
 
 ```yaml
-name: "Rajput Niraj Singh"
-role: "Full Stack Developer"
-location: "India 🇮🇳"
-current_focus: ["AI/ML", " Full Stack Web Development", "Flutter development"]
-motto: "Turning imagination into digital reality"
+👤 Profile:
+  name: "Rajput Niraj Singh"
+  role: "Full Stack Developer"
+  location: "India 🇮🇳"
+  experience: "5+ Years"
+
+🎯 Current Focus:
+  - AI/ML & Deep Learning
+  - Full Stack Web Development
+  - Flutter & Cross-Platform Apps
+  - Intelligent Chatbots
+  - Modern UI/UX Design
+
+💡 Interests:
+  - Smart Automation
+  - Ethical Hacking
+  - Digital Wellbeing
+  - Open Source Innovation
+
+🎮 Fun Facts:
+  - "I automate before I caffeinate ☕🤖"
+  - "Debugging is my cardio 💪"
+  - "Code reviewer by day, bug hunter by night 🦇"
+
+📫 Contact:
+  - LinkedIn: /in/niraj1742
+  - Instagram: @rajput_niraj_singh_k
+</td> </tr> </table>
+
